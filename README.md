@@ -28,7 +28,7 @@ It provides secure user authentication and full CRUD task management with a resp
 
 ## 🚀 Live Demo
 
-[![Frontend](https://img.shields.io/badge/Frontend-Live-brightgreen?style=for-the-badge&logo=angular)](https://frontend.onrender.com)
+[![Frontend](https://img.shields.io/badge/Frontend-Live-brightgreen?style=for-the-badge&logo=angular)](https://gaurav-lad-todo-task-manager-app.onrender.com)
 
 [![Backend](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge&logo=springboot)](https://gaurav-lad-todo-task-manager-app-backend.onrender.com)
 
@@ -36,9 +36,9 @@ It provides secure user authentication and full CRUD task management with a resp
 
 ## 📂 Repositories
 
-[![Frontend Repo](https://img.shields.io/badge/Frontend-GitHub-black?style=for-the-badge&logo=github)](https://github.com/user/frontend)
+[![Frontend Repo](https://img.shields.io/badge/Frontend-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Gaurav-J-Lad/Todo-Task-Manager-App-Frontend)
 
-[![Backend Repo](https://img.shields.io/badge/Backend-GitHub-black?style=for-the-badge&logo=github)](https://github.com/user/backend)
+[![Backend Repo](https://img.shields.io/badge/Backend-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Gaurav-J-Lad/Todo-Task-Manager-App-Backend)
 
 ---
 
@@ -145,7 +145,7 @@ It provides secure user authentication and full CRUD task management with a resp
 
 ## 🎥 Demo Video
 
-[![LinkedIn Video](https://img.shields.io/badge/Demo%20Video-Watch%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/your-video-link)
+[![App Demo Video on LinkedIn](https://img.shields.io/badge/Demo%20Video-Watch%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/gaurav-lad1974_fullstackdevelopment-springboot-angular-ugcPost-7460302349396312064-giEa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJEKFYB8zelIDYm2HFAwSkphG62qEaVfIs)
 
 ---
 
